@@ -1,5 +1,11 @@
 # Mandelbrot Fractal (C + Python)
 
+## Autores
+- Pedro Mota
+- Lemoel Costa
+
+
+
 ## Descrição
 Este projeto é uma demonstração de integração entre as linguagens de programação C e Python para a disciplina de Conceitos de Linguagens de Programação.
 O objetivo é utilizar a linguagem C para o processamento computacional intensivo (desempenho) através do cálculo do fractal de Mandelbrot e utilizar Python para gerenciar a interface gráfica (`tkinter`). A integração ocorre através do mecanismo FFI (Foreign Function Interface) fornecido pela biblioteca nativa `ctypes`.
